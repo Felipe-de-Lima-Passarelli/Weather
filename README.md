@@ -47,6 +47,7 @@ Bem-vindo ao projeto **ClimaTempo**, um aplicativo que consome a **Weather API**
 └───img/
         ícones de clima ou imagens (opcional)
 │   LICENSE
+│   README.md
 │   index.html
 │   index.js
 │   style.css
