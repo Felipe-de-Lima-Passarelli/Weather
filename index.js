@@ -1,5 +1,5 @@
 //API Key
-const apiKey = "d7367f3bbed21c0a06d522b0eb892f59";
+const apiKey = "4d041490c2bf43de91e173402250112";
 
 //form
 const form = document.getElementById("form");
@@ -81,3 +81,4 @@ const defaultCity = async () => {
 };
 
 defaultCity();
+
